@@ -6,5 +6,5 @@ I am Prabhu & I am the creator of [react-chrono](https://github.com/prabhuignoto
 - 😄 Pronouns: He/Him.
 - 📖 What I'm learning: RUST, GO Lang.
 - 🌒 Fun fact: Free & Open Source Software runs the world. 🙂
-- ✒️ I Also a Freelance Tech blogger with the focus on React, Vue and Javascript.
+- ✒️ Freelance Tech blogger.
 - 📫 How to reach me: [@prabhumurthy2](https://twitter.com/prabhumurthy2) / [prabhu.m.murthy@gmail.com](mailto:prabhu.m.murthy@gmail.com).
