@@ -9,7 +9,7 @@ I am Prabhu & I am the creator of [react-chrono](https://github.com/prabhuignoto
 - ✒️ Freelance Tech blogger.
 - 📫 How to reach me: [@prabhumurthy2](https://twitter.com/prabhumurthy2) / [prabhu.m.murthy@gmail.com](mailto:prabhu.m.murthy@gmail.com).
 
-## Blog posts
+### Blog posts
 
 - [Building a Filepicker with React](https://retool.com/blog/building-a-file-picker-component-in-react/)
 - [Building a Checkbox component in Vue](https://retool.com/blog/build-a-checkbox-component-in-vue/)
