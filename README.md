@@ -2,10 +2,10 @@
 
 My name is Prabhu Murthy and I am a software developer with a passion for creating elegant and intuitive user interfaces. I have built and maintained several popular open-source projects, including:
 
-- **[react-chrono](https://github.com/prabhuignoto/react-chrono)**
-- **[vue-float-menu](https://github.com/prabhuignoto/vue-float-menu)**
-- **[vue-dock-menu](https://github.com/prabhuignoto/vue-dock-menu)**
-- **[react-visual-grid](https://github.com/prabhuignoto/react-visual-grid)**
+- **[react-chrono](https://github.com/prabhuignoto/react-chrono)** - create dynamic and interactive timelines in your applications
+- **[vue-float-menu](https://github.com/prabhuignoto/vue-float-menu)** - floating, context-sensitive menus in your applications
+- **[vue-dock-menu](https://github.com/prabhuignoto/vue-dock-menu)** - dockable menus in your applications, enabling users to access frequently used features and tools with ease
+- **[react-visual-grid](https://github.com/prabhuignoto/react-visual-grid)** - designed for displaying images in a visually appealing grid format, offering a flexible and easy-to-use solution for organizing and showcasing image collections.
 
 ## Building react-creme
 
