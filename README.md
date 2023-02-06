@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Prabhu and I am a software developer with a passion for creating elegant and intuitive user interfaces. I have built and maintained several popular open-source projects, including:
+My name is Prabhu Murthy and I am a software developer with a passion for creating elegant and intuitive user interfaces. I have built and maintained several popular open-source projects, including:
 
 - **[react-chrono](https://github.com/prabhuignoto/react-chrono)**
 - **[vue-float-menu](https://github.com/prabhuignoto/vue-float-menu)**
