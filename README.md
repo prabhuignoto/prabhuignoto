@@ -23,5 +23,6 @@ If you would like to get in touch with me, you can reach me at [@prabhumurthy2](
 
 - [Building a Filepicker with React](https://retool.com/blog/building-a-file-picker-component-in-react/)
 - [Building a Checkbox component in Vue](https://retool.com/blog/build-a-checkbox-component-in-vue/)
+- [Announcing React-Chrono v2.0](https://dev.to/prabhuignoto/announcing-react-chrono-20-exciting-new-features-and-improvements-3onp)
 
 I hope you will find these articles informative and helpful, and that you will enjoy exploring the other projects and resources I have created and shared.
