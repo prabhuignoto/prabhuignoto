@@ -6,14 +6,7 @@ My name is Prabhu Murthy and I am a software developer with a passion for creati
 - **[vue-float-menu](https://github.com/prabhuignoto/vue-float-menu)** - Floating, context-sensitive menus in your applications
 - **[vue-dock-menu](https://github.com/prabhuignoto/vue-dock-menu)** - Dockable menus in your applications, enabling users to access frequently used features and tools with ease
 - **[react-visual-grid](https://github.com/prabhuignoto/react-visual-grid)** - Designed for displaying images in a visually appealing grid or masonry format
-
-## Building react-creme
-
-I am currently working on a brand new UI toolkit for React called [react-creme](https://github.com/prabhuignoto/react-creme/). This project represents a departure from my previous work in that it is specifically designed to be a comprehensive and fully-featured UI toolkit, providing developers with a wide range of pre-built UI components and design patterns to help them build beautiful and functional applications with ease.
-
-## Freelance Tech Blogger
-
-In addition to my work on react-creme, I am also a freelance tech blogger. I enjoy writing about the latest trends and developments in the world of software development, and sharing my knowledge and experiences with others.
+- **[react-creme](https://github.com/prabhuignoto/react-creme)** - Comprehensive and fully-featured UI toolkit for React, providing developers with a wide range of pre-built UI components and design patterns to help them build beautiful and functional applications with ease.
 
 ## Get in touch
 
