@@ -1,11 +1,4 @@
-# Hi there, I'm Prabhu Murthy 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://github.com/prabhuignoto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhuignoto&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Prabhu's GitHub Stats" />
-</a>
-<a href="https://github.com/prabhuignoto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuignoto&layout=compact&theme=radical&hide_border=true" alt="Prabhu's Top Languages" />
-</a>
+# Hi there, I'm Prabhu Murthy 👋 
 
 ---
 
