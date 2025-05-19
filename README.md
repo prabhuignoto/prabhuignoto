@@ -39,7 +39,7 @@ I'm a **Senior Frontend Engineer**, **Tech Writer**, and **Open Source Author** 
 
 ## ✨ My Top Open Source Projects
 
-* ⭐ **[react-chrono](https://github.com/prabhuignoto/react-chrono)** (📈 4.1k+ Stars): Modern timeline component for React. Featured on Best of JS!
+* ⭐ **[react-chrono](https://github.com/prabhuignoto/react-chrono)** (📈 4.1k+ Stars): Modern timeline component for React.
     [![react-chrono stars](https://img.shields.io/github/stars/prabhuignoto/react-chrono?style=social)](https://github.com/prabhuignoto/react-chrono) [![react-chrono downloads](https://img.shields.io/npm/dm/react-chrono?style=social)](https://www.npmjs.com/package/react-chrono)
 * 🎨 **[react-creme](https://github.com/prabhuignoto/react-creme)** (✨ 110+ Stars): Comprehensive UI component library for React.
     [![react-creme stars](https://img.shields.io/github/stars/prabhuignoto/react-creme?style=social)](https://github.com/prabhuignoto/react-creme)
