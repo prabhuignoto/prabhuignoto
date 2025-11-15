@@ -6,7 +6,6 @@
 
 I'm a **Senior Frontend Engineer**, **Tech Writer**, and **Open Source Author** based in 🇮🇳.
 
-* **Experience:** 15+ years crafting robust, user-centric web applications using **React, Vue, Angular, and Node.js**.
 * **UI/UX Focus:** Passionate about creating intuitive and delightful user experiences (5+ years), skilled in user research, wireframing, and usability testing.
 * **Open Source:** Dedicated creator and maintainer of libraries like the popular `react-chrono` (4.1k+ stars ✨), contributing actively to the developer community.
 * **Tech Stack:** Proficient in **JavaScript, TypeScript, Next.js, Python, HTML/CSS**, and modern frontend tooling.
